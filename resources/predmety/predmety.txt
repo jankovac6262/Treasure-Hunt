@@ -1,0 +1,13 @@
+# Format: <typ> <riadok> <stlpec>
+# Hrac startuje na (35, 35)
+mec 23 23
+stit 40 13
+kluc 6 8
+kluc 8 28
+kluc 8 58
+elixir_heal 41 12
+elixir_damage 41 17
+elixir_speed 50 8
+elixir_heal 51 15
+elixir_speed 54 27
+truhla 39 51

@@ -1,0 +1,8 @@
+# Format: <typ> <riadok> <stlpec>
+# Hrac startuje na (35, 35)
+zombie 10 8
+zombie 10 14
+skeleton 10 32
+skeleton 10 27
+sliz 9 62
+sliz 16 54
